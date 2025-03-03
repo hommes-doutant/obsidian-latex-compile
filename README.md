@@ -1,6 +1,6 @@
-# Obsidian Sample Plugin
+# Obsidian LaTeX Compile Plugin (WIP)
 
-This is a sample plugin for Obsidian (https://obsidian.md).
+This is currently a WIP and not functional.
 
 This project uses TypeScript to provide type checking and documentation.
 The repo depends on the latest plugin API (obsidian.d.ts) in TypeScript Definition format, which contains TSDoc comments describing what it does.
